@@ -1,0 +1,33 @@
+{
+    "pipeline_name": "MyHome Energy Calculator - Data Preparation",
+    "created_at": "2026-11-03T15:03:28.978197+00:00",
+    "source": {
+        "filename": "electricity_consumption.csv",
+        "source_url": "https://open.dosm.gov.my/data-catalogue/electricity_consumption",
+        "sha256": "365918d0cfe987f2eac8529baf4fbffa055b1eee0c4ed595bd477f7a0b2d195f"
+    },
+    "output": {
+        "filename": "electricity_consumption_cleaned.csv",
+        "sha256": "50e27bb3a301f859f17481a2307d8367db0f1e5fd8cd39822a769ee766377b6a",
+        "rows": 612,
+        "columns": [
+            "date",
+            "sector",
+            "consumption"
+        ]
+    },
+    "preparation_steps": [
+        "Converted the date column from text to datetime format.",
+        "Checked for missing values.",
+        "Checked for duplicate rows.",
+        "Checked for invalid dates.",
+        "Checked for negative consumption values."
+    ],
+    "validation_results": {
+        "missing_values": 0,
+        "duplicate_rows": 0,
+        "invalid_dates": 0,
+        "negative_consumption": 0,
+        "row_count_preserved": true
+    }
+}
