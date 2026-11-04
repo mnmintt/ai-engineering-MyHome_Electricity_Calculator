@@ -80,12 +80,7 @@ EduAdvisor focuses on education-related information and guidance, while MyHome E
 ## Weekly Progress
 
 | Week | Focus | Deliverable | Status |
-|---|---|---|---|
-| W1 | System map and project scope | README, observation sheet, system map, and project scope | In progress |
-| W2 | |  |  |
-| W3 |  |  | |
-| W4 |  |  |  |
-| W5 |  |  |  |
-| W6 |  |  |  |
-| W7 |  |  |  |
-| W8 |  |  |  |
+|------|-------|-------------|--------|
+| W1 | System map + project scope | README + project scope + observation sheet + system map | ✅ Completed |
+| W2 | Requirements + system design | Functional and non-functional requirements + architecture + ADR | ✅ Completed |
+| W3 | Data engineering: pipeline, lineage and workflows | Pipeline notebook + data inventory + pipeline diagram + pipeline decisions + cleaned dataset + manifests + V1 pipeline | ✅ Completed |
