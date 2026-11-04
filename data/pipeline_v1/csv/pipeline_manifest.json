@@ -1,0 +1,38 @@
+{
+    "pipeline_name": "MyHome Energy Calculator Data Pipeline",
+    "pipeline_version": "V1",
+    "execution_time": "2026-11-04T15:45:42.626131+00:00",
+    "status": "success",
+    "input": {
+        "filename": "electricity_consumption.csv",
+        "path": "electricity_consumption.csv",
+        "sha256": "365918d0cfe987f2eac8529baf4fbffa055b1eee0c4ed595bd477f7a0b2d195f"
+    },
+    "output": {
+        "filename": "electricity_consumption_cleaned.csv",
+        "path": "data/pipeline_v1/csv/electricity_consumption_cleaned.csv",
+        "sha256": "7663e8045981ab53cbdae7520a29389b060c13bfe5c2d56a964d7a397052edca",
+        "rows": 612,
+        "columns": [
+            "date",
+            "sector",
+            "consumption"
+        ]
+    },
+    "preparation_steps": [
+        "Load the original CSV dataset",
+        "Check required columns",
+        "Convert date column to datetime",
+        "Check missing values",
+        "Check duplicate rows",
+        "Check invalid dates",
+        "Check negative consumption values",
+        "Export the prepared dataset"
+    ],
+    "validation_results": {
+        "missing_values": 0,
+        "duplicate_rows": 0,
+        "invalid_dates": 0,
+        "negative_consumption": 0
+    }
+}
