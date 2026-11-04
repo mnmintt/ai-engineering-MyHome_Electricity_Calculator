@@ -41,6 +41,9 @@ Many households do not know which rooms and appliances consume the most electric
 - **Source 4:** Electricity Pricing Framework (Tariff) - https://myenergystats.st.gov.my/en/dashboard  
   
 ## Weekly Progress
+
 | Week | Focus | Deliverable | Status |
 |------|-------|-------------|--------|
-| W1 | System map + project scope | README + docs | ✅ |
+| W1 | System map + project scope | README + project scope + observation sheet + system map | ✅ Completed |
+| W2 | Requirements + system design | Functional and non-functional requirements + architecture + ADR | ✅ Completed |
+| W3 | Data engineering: pipeline, lineage and workflows | Pipeline notebook + data inventory + pipeline diagram + pipeline decisions + cleaned dataset + manifests + V1 pipeline | ✅ Completed |
