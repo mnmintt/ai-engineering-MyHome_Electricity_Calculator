@@ -36,7 +36,7 @@ The system will use a calculation engine for numerical results and an AI model t
 
 ## Initial Project Objectives (2–3)
 
-- O1: To develop an interactive household energy calculator that estimates electricity consumption and costs based on rooms, appliances, and usage patterns.
+- O1: To develop an estimated bill calculator and an interactive household energy calculator that estimates electricity consumption and costs based on rooms, appliances, and usage patterns.
 - O2: To develop a dashboard that compares electricity consumption across floors, rooms, and appliances.
 - O3: To implement AI-powered recommendations, a chatbot, and a what-if simulator to help users understand their energy usage and explore potential savings.
 
