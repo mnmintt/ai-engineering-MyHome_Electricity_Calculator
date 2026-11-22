@@ -28,6 +28,7 @@ Many households do not know which rooms and appliances consume the most electric
 - O1: To develop an estimated bill calculator and an interactive household energy calculator that estimates electricity consumption and costs based on rooms, appliances, and usage patterns.
 - O2: To develop a dashboard that compares electricity consumption across floors, rooms, and appliances.
 - O3: To implement AI-powered recommendations, a chatbot, and a what-if simulator to help users understand their energy usage and explore potential savings.
+- O4:	To show national and sector electricity trends from OpenDOSM data.
   
 ## Target Users
 - Malaysian households that want to understand their electricity consumption.
