@@ -20,7 +20,7 @@
 | ID | Quality Attribute | Requirement | Measurement Method | Metric | Threshold |
 |---|---|---|---|---|---|
 | NFR1 | Correctness | The system shall calculate electricity consumption accurately using the defined formula in the Home Energy Calculator. | Compare results against manually calculated test cases covering different wattages, quantities, and usage hours. | Absolute calculation error in kWh | ≤ 0.01 kWh for predefined test cases |
-| NFR2 | Performance | The system shall return local calculations and dashboard updates within an acceptable time for both calculators. | Measure response time across a defined set of bill calculations, energy calculations, and dashboard operations. | 90th-percentile response time (p90) | ≤ 3 seconds for local operations |
+| NFR2 | Performance | The system must return local calculations and dashboard updates within 3 to 5 seconds for both calculators. | Measure response time across a defined set of bill calculations, energy calculations, and dashboard operations. | 90th-percentile response time (p90) | ≤ 3 seconds for local operations |
 | NFR3 | Reliability | The system shall complete valid bill and energy calculation requests without calculation errors. | Run at least 50 valid test cases covering both calculators and record successful completions. | Successful calculation rate | 100% of valid test cases |
 | NFR4 | Usability | Users shall be able to complete the basic tasks of each calculator without assistance. | Conduct a usability test with five intended users who independently try the Estimated Bill Calculator and Home Energy Calculator. | Number of users completing the defined tasks without assistance | At least 4 out of 5 users |
 
