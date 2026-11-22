@@ -11,8 +11,7 @@
 | FR5 | Allow users to select a tariff type and enter the required billing information in the Estimated Bill Calculator, then calculate an estimated electricity bill using documented tariff rates and assumptions. | SHALL NOT require room or appliance configuration, or claim that the result is the exact TNB bill. |
 | FR6 | Generate AI-based energy-saving recommendations and answer household energy questions using available household data and relevant energy-saving information in the Home Energy Calculator. | SHALL NOT present unsupported assumptions as confirmed household facts or require users to use the Estimated Bill Calculator first. |
 | FR7 | Allow users to change appliance usage assumptions and compare estimated electricity consumption before and after the changes in the Home Energy Calculator. | SHALL NOT claim that simulated savings are guaranteed real-world savings. |
-| FR8 | Allow users to access the Estimated Bill Calculator independently, select a tariff type, and enter the required billing inputs without completing household setup. | SHALL NOT require users to complete the Home Energy Calculator before estimating a bill. |
-| FR9 | Allow users to view national and sector-level electricity consumption trends using available electricity consumption data. | SHALL NOT present national or sector-level data as individual household electricity consumption. |
+| FR8 | Allow users to view national and sector-level electricity consumption trends using available electricity consumption data. | SHALL NOT present national or sector-level data as individual household electricity consumption. |
 
 ---
 
