@@ -51,8 +51,8 @@ The system will use a calculation engine for numerical results and an AI model t
 - **Source 1:** OpenDOSM Monthly  Electricity Consumption Dataset (Monthly Consumption) - https://open.dosm.gov.my/data-catalogue/electricity_consumption?sector=total&visual=table
 - **Source 2:**Monthly AFA Ratwe - https://www.st.gov.my/AFA#section-1
 - **Source 3:** TNB Energy Savings at Home (Saving recommendation)  - https://www.tnb.com.my/residential/energy-savings-at-home#usage-cost-of-electrical-appliances-at-home
-- **Source 4:** Electricity Pricing Framework (Tariff) - https://myenergystats.st.gov.my/en/dashboard  
-
+- **Source 4:** Electricity Pricing Framework (Tariff) - https://myenergystats.st.gov.my/en/dashboard
+- **Source 5:** TNB Tariff Information & Structure (Tariff) - https://www.mytnb.com.my/tariff/index.html?lang=en&v=1.1.71#calculator
 
 ## Similar to EduAdvisor
 The similarity is limited to providing a digital platform that helps users understand information and make better decisions. MyHome Energy Calculator focuses specifically on household electricity consumption and energy efficiency.
