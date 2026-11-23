@@ -37,9 +37,9 @@ Many households do not know which rooms and appliances consume the most electric
   
 ## Data Sources
 - **Source 1:** OpenDOSM Monthly  Electricity Consumption Dataset (Monthly Consumption) - https://open.dosm.gov.my/data-catalogue/electricity_consumption?sector=total&visual=table
-- **Source 2:** Monthly AFA Rate - https://www.st.gov.my/AFA#section-1
+- **Source 2:** Electricity pricing framework and monthly AFA rate - https://www.st.gov.my/AFA#section-1
 - **Source 3:** TNB Energy Savings at Home (Saving recommendation)  - https://www.tnb.com.my/residential/energy-savings-at-home#usage-cost-of-electrical-appliances-at-home
-- **Source 4:** Electricity Pricing Framework (Tariff) - https://myenergystats.st.gov.my/en/dashboard  
+- **Source 4:** MyEnergyStats (Tariff) - https://myenergystats.st.gov.my/en/dashboard  
 - **Source 5:** TNB Tariff Information & Structure (Tariff) - https://www.mytnb.com.my/tariff/index.html?lang=en&v=1.1.71#calculator
   
 ## Weekly Progress
